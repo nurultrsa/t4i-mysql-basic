@@ -33,7 +33,7 @@ DROP COLUMN place_sell;
 INSERT INTO books VALUES
 ('', 'Agatha Christie', '', '', 'The Secret of Chimneys', 'The Secret of Chimneys is a work of detective fiction by Agatha Christie, first published June 1925.', 100, DEFAULT, 113000, 'available'),
 ('', 'Paulo', '', '', 'The Alchemist', 'The Alchemist tells the magical story of Santiago, an Andalusian shepherd boy who yearns to travel in search of a worldly treasure as extravagant as any ever found.', '', '2016-09-16', 100000, 'out of stock'),
-('', 'James Patterson', 'JD Baker', '', 'The Noise is a sci-fi thriller which begins at a survivalist settlement in the Pacific Northwest.", 100, DEFAULT, 180000, 'available');
+('', 'James Patterson', 'JD Baker', '', 'The Noise is a sci-fi thriller which begins at a survivalist settlement in the Pacific Northwest.', 100, DEFAULT, 180000, 'available');
 
 
 -- SELECT BOOKS --
